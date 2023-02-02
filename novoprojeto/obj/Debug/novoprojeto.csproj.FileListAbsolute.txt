@@ -1,0 +1,8 @@
+C:\Users\eduardo.obinoki\source\repos\novoprojeto\novoprojeto\bin\Debug\novoprojeto.exe.config
+C:\Users\eduardo.obinoki\source\repos\novoprojeto\novoprojeto\bin\Debug\novoprojeto.exe
+C:\Users\eduardo.obinoki\source\repos\novoprojeto\novoprojeto\bin\Debug\novoprojeto.pdb
+C:\Users\eduardo.obinoki\source\repos\novoprojeto\novoprojeto\obj\Debug\novoprojeto.csproj.AssemblyReference.cache
+C:\Users\eduardo.obinoki\source\repos\novoprojeto\novoprojeto\obj\Debug\novoprojeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduardo.obinoki\source\repos\novoprojeto\novoprojeto\obj\Debug\novoprojeto.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.obinoki\source\repos\novoprojeto\novoprojeto\obj\Debug\novoprojeto.exe
+C:\Users\eduardo.obinoki\source\repos\novoprojeto\novoprojeto\obj\Debug\novoprojeto.pdb
